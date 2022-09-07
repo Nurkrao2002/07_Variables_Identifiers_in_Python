@@ -24,7 +24,7 @@ a=1
 b=2
 print(a,a)
 
-print(a);print(b) # NameError: name 'a' is not defined
+print(a);print(b)     # NameError: name 'a' is not defined
 
 a=1 ; b=3
 print(a,b)
